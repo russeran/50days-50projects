@@ -6,9 +6,9 @@
 <hr>
 
 ### Day 2 - Progress Steps:
-![screenshot](images/Day2-Progress%20Steps.png)
+   ![screenshot](images/Day2-Progress%20Steps.png)
 
 <hr>
 
 ### Day 2 - Progress Steps:
-![screenshot](images/Day2-Progress%20Steps.png)
+![screenshot]()
