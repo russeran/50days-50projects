@@ -5,5 +5,5 @@
 
 <hr>
 
-### Day 2 - Update This:
-![screenshot]()
+### Day 2 - Progress Steps:
+![screenshot](images/Day2-Progress%20Steps.png)
