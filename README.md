@@ -16,4 +16,4 @@
 <hr>
 
 ### Day 3 - Hidden Search Widget:
-![screenshot](images/)
+![screenshot](images/Day4-HiddenSearchWidget.png)
