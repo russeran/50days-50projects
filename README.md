@@ -11,4 +11,4 @@
 <hr>
 
 ### Day 2 - Progress Steps:
-![screenshot]()
+![screenshot](images/Day3-Rotating%20Nav.png)
