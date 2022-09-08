@@ -10,5 +10,10 @@
 
 <hr>
 
-### Day 2 - Progress Steps:
+### Day 3 - Rotating Navigation:
 ![screenshot](images/Day3-Rotating%20Nav.png)
+
+<hr>
+
+### Day 3 - Hidden Search Widget:
+![screenshot](images/)
