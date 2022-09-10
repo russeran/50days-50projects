@@ -21,4 +21,4 @@
 <hr>
 
 ### Day 5 - Blurry Loading:
-![screenshot](images/Day4-HiddenSearchWidget.png)
+![screenshot](https://50projects50days.com/projects/blurry-loading/)
