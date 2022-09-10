@@ -11,9 +11,14 @@
 <hr>
 
 ### Day 3 - Rotating Navigation:
-![screenshot](images/Day3-Rotating%20Nav.png)
+![screenshot](https://50projects50days.com/projects/blurry-loading/)
 
 <hr>
 
-### Day 3 - Hidden Search Widget:
+### Day 4 - Hidden Search Widget:
+![screenshot](images/Day4-HiddenSearchWidget.png)
+
+<hr>
+
+### Day 5 - Blurry Loading:
 ![screenshot](images/Day4-HiddenSearchWidget.png)
