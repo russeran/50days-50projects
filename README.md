@@ -35,5 +35,20 @@
 
 <hr>
 
+### Day 8 - Form Wave Animation:
+![screenshot](images/Day8-FromWaveAnimation.png)
+
+<hr>
+
+### Day 5 - Blurry Loading:
+![screenshot](images/)
+
+<hr>
+
+### Day 5 - Blurry Loading:
+![screenshot](images/)
+
+<hr>
+
 ### Day 5 - Blurry Loading:
 ![screenshot](images/)
