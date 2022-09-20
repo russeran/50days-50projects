@@ -11,7 +11,7 @@
 <hr>
 
 ### Day 3 - Rotating Navigation:
-![screenshot](https://50projects50days.com/projects/blurry-loading/)
+![screenshot](images/Day3-Rotating%20Nav.png)
 
 <hr>
 
@@ -36,4 +36,4 @@
 <hr>
 
 ### Day 5 - Blurry Loading:
-![screenshot](https://50projects50days.com/projects/blurry-loading/)
+![screenshot](images/)
