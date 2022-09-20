@@ -21,4 +21,19 @@
 <hr>
 
 ### Day 5 - Blurry Loading:
+![screenshot](images/Day5-BlurryLoading.png)
+
+<hr>
+
+### Day 6 - Scroll Animation:
+![screenshot](images/Day6-ScrollAnimation.png)
+
+<hr>
+
+### Day 7 - Split Landing Page:
+![screenshot](images/Day7-SplitLandingPage.png)
+
+<hr>
+
+### Day 5 - Blurry Loading:
 ![screenshot](https://50projects50days.com/projects/blurry-loading/)
