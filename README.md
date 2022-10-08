@@ -46,7 +46,7 @@
 <hr>
 
 ### Day 10 - Dad Jokes:
-![screenshot](images/DadJokes.png)
+![screenshot](images/Day10-DadJokes.png)
 
 <hr>
 
