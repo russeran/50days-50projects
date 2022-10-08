@@ -45,8 +45,8 @@
 
 <hr>
 
-### Day 5 - Blurry Loading:
-![screenshot](images/)
+### Day 10 - Dad Jokes:
+![screenshot](images/DadJokes.png)
 
 <hr>
 
