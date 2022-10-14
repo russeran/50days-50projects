@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 * {
     box-sizing: border-box;
 }
 
 body {
     font-family: 'Muli', sans-serif;
-    background-color: #bb9a22;
+    background-color: #f0f0f0;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 
 .faq {
     background-color: transparent;
-    border: 1px solid #ccc;
+    border: 1px solid #9fa4a8;
     border-radius: 10px;
     margin: 20px 0;
     padding: 30px;
@@ -29,7 +29,7 @@ h1 {
     transition: 0.3s ease;
 }
 
-.faq-active {
+.faq.active {
     background-color: #fff;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
 }
@@ -38,7 +38,7 @@ h1 {
 .faq.active::after {
     content: '\f075';
     font-family: 'Font Awesome 5 Free';
-    color: #f6f6f6;
+    color: #2ecc71;
     font-size: 7rem;
     position: absolute;
     opacity: 0.2;
@@ -48,14 +48,14 @@ h1 {
 }
 
 .faq.active::before {
-    color: blue;
+    color: #3498db;
     top: -10px;
     left: -30px;
     transform: rotateY(180deg);
 }
 
 .faq-title {
-    margin: 0 35pc 0 0;
+    margin: 0 35px 0 0;
 }
 
 .faq-text {
@@ -65,4 +65,42 @@ h1 {
 
 .faq.active .faq-text {
     display: block;
+}
+
+.faq-toggle {
+    background-color: transparent;
+    border: 0;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    padding: 0;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    height: 30px;
+    width: 30px;
+}
+
+.faq-toggle:focus {
+    outline: 0;
+}
+
+.faq-toggle .fa-times {
+    display: none;
+}
+
+.faq.active .faq-toggle .fa-times {
+    color: #fff;
+    display: block;
+}
+
+.faq.active .faq-toggle .fa-chevron-down {
+    display: none;
+}
+
+.faq.active .faq-toggle {
+    background-color: #9fa4a8;
 }

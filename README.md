@@ -52,3 +52,12 @@
 
 ### Day 11 - Event KeyCode:
 ![screenshot](images/Day11-EventKeyCode.png)
+
+### Day 12 - FAQ Collapse:
+![screenshot](images/Day12-FAQcollapse.png)
+
+### Day 11 - Event KeyCode:
+![screenshot](images/)
+
+### Day 11 - Event KeyCode:
+![screenshot](images/)
