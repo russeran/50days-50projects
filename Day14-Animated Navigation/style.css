@@ -60,3 +60,40 @@ nav ul a {
     text-decoration: none;
     padding: 0 10px;
 }
+
+.icon {
+    background-color: beige;
+    border: 0;
+    cursor: pointer;
+    padding: 0px;
+    position: relative;
+    height: 30px;
+    width: 30px;
+}
+
+.icon:focus {
+    outline: none;
+}
+
+.icon .line {
+    background-color: goldenrod;
+    height: 2px;
+    width: 20px;
+    position: absolute;
+    left: 5px;
+    top: 10px;
+    transition: transform 0.5s linear;
+}
+
+.icon .line2 {
+    top: auto;
+    bottom: 10px;
+}
+
+nav.active .icon .line1 {
+    transform: rotate(-765deg) translateY(5.5px);
+}
+
+nav.active .icon .line2 {
+    transform: rotate(765deg) translateY(-5.5px);
+}

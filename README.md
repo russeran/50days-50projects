@@ -59,5 +59,5 @@
 ### Day 13 - Random Choice Picker:
 ![screenshot](images/Day13-RandomPicker.png)
 
-### Day 11 - Event KeyCode:
-![screenshot](images/)
+### Day 14 - Animated Navbar:
+![screenshot](images/Day14-Animated%20Nav.png)
